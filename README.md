@@ -6,13 +6,11 @@
 
  
 
-:computer: I'm a CS student and a .NET developer!
+:computer: I'm a CS student!
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning everything. I started with .NET Framework back in 2017, now I did some college projects with Java, C and Python, also I was programming some World of Warcraft AddOns which are written in Lua and now I'm trying to do some stuff using JavaScript with React Native.
-
-:outbox_tray: 2022 Goals: Keep studying and get a job.
+:books: I’m currently learning about software development and web development. I started with .NET Framework back in 2017, I did some college projects with Java, C and Python, also I did some lua coding just for fun.
 
  
 
